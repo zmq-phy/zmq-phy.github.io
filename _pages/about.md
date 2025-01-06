@@ -27,6 +27,10 @@ My research interest includes Structured Light Field, Entanglement and its appli
 - *2024.06*: &nbsp;🎉🎉 I have passed my thesis defense and graduated from Nanjing University.
 - *2024.05*: &nbsp;🎉🎉 Paper published by _Optics Letters_.
 
+# 📖 Educations
+- *2021.06 - 2024.06*, **_M.Sc._** in Optics, Nanjing University, Nanjing, CHN. (GPA: 3.86/4)
+- *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, Nanjing University of Science and Technology, Nanjing, CHN. (GPA: 3.67/4, Rank: 6/91, **Completed a four-year degree program in three years and graduated in advance.**)
+
 # 🔎 Research experience
 ## Manipulating Optical Skyrmions During Propagation
 <span style="background-color: lightgray; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2024-2025</span>
@@ -76,10 +80,6 @@ Ren, Xi-Lin Wang, Jianping Ding*, and Hui-Tian Wang, **_Physical Review Applied_
 # 💬 Presentation
 - *2024*, (Poster) Maniputation of longitudinal evolution of local nonseparability in vector beams<br>
   **Zhiming Qing**, Jianping Ding*, The 7th Jiangsu Physical Society Spring Meeting, China. **Awarded the Outstanding Report Prize.**
-
-# 📖 Educations
-- *2021.06 - 2024.06*, **_M.Sc._** in Optics, Nanjing University, Nanjing, CHN. (GPA: 3.86/4)
-- *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, Nanjing University of Science and Technology, Nanjing, CHN. (GPA: 3.67/4, Rank: 6/91, **Completed a four-year degree program in three years and graduated in advance.**)
 
 # 🎖 Honors and Awards
 - *2023*, Outstanding Graduate Student, Nanjing University. 
