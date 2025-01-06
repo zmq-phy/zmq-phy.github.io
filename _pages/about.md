@@ -43,12 +43,12 @@ Hui-Tian Wang, **_Optics Letters_** 49, 2557–2560, (2024).
 [Fast identification of orbital angular momentum states in vector beams](https://doi.org/10.1364/OL.524647)
 
 Xian Long, Xinglin Wang, **Zhiming Qing**, Weiming Zhen, Zheng Yuan, Yuan Gao, Wenxiang Yan, Zhi-Cheng 
-Ren, Xi-Lin Wang, Jianping Ding*, and Hui-Tian Wang, **_Physical Review Applied_** 22, 044019 (2024).
+Ren, Xi-Lin Wang, Jianping Ding*, and Hui-Tian Wang, **_Physical Review Applied_** 22, 044019, (2024).
 
 - Building on scalar mode decomposition, an innovative vector mode decomposition technique is introduced, utilizing polarization conversion and preservation to classify orbital angular momentum (OAM) states in vector beams. This method enables simultaneous detection of complex OAM modes and polarization information through single-shot measurements.
 
 # 💬 Presentation
-- *2024*, (Poster) Maniputation of longitudinal evolution of local nonseparability in vector beams
+- *2024*, (Poster) Maniputation of longitudinal evolution of local nonseparability in vector beams<br>
   **Zhiming Qing**, Jianping Ding*, The 7th Jiangsu Physical Society Spring Meeting, China. **Awarded the Outstanding Report Prize.**
 
 # 📖 Educations
