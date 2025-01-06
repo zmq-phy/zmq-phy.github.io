@@ -5,6 +5,9 @@ main:
 
   - title: "News"
     url: "/#-news"
+  
+  - title: "Educations"
+    url: "/#-educations"
 
   - title: "Research"
     url: "/#-research-experience"
@@ -17,9 +20,6 @@ main:
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Skills"
     url: "/#-skills"
