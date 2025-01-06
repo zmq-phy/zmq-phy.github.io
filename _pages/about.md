@@ -26,7 +26,7 @@ redirect_from:
 - *2024.05*: &nbsp;🎉🎉 Paper published by _Optics Letters_.
 # 🔎 Research experience
 ## Manipulating Optical Skyrmions During Propagation
-‘Nanjing University, 2024-2025’
+'Nanjing University, 2024-2025'
 - Currently, I am working on this topic. Coming soon!
 ## Nonseparability in vectorial structured light fields
 ‘Nanjing University, 2023-2024’
