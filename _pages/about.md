@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I graduated from School of Physics, Nanjing University with a master's degree, advised by Prof. Jianping Ding and from School of Electronics and Optical Engineering, Nanjing University of Science and Technology with a bachelor's degree.
 
+My research interest includes Structured Light Field, Entanglement and its application, Light-Matter Interaction, Information Photonics and Quantum Computation.
 
 
 # 🔥 News
