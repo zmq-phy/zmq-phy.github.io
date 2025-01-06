@@ -24,6 +24,18 @@ redirect_from:
 - *2024.10*: &nbsp;🎉🎉 Paper published by _Physical Review Applied_.
 - *2024.06*: &nbsp;🎉🎉 I have passed my thesis defense and graduated from Nanjing University.
 - *2024.05*: &nbsp;🎉🎉 Paper published by _Optics Letters_.
+# 🔎 Research experience
+## Manipulating Optical Skyrmions During Propagation
+- Currently, I am working on this topic. Coming soon!
+## Nonseparability in vectorial structured light fields
+- Study on the propagation evolution and control of nonseparability in vector light fields, comparing paraxial optical systems with quantum systems using quantum entanglement mathematical tools, and exploring methods to manipulate local nonseparability during propagation.
+- A theoretical scheme is proposed, and higher-order Bessel vectorial beams with adjustable local concurrence are designed, enabling the experimental generation of various longitudinal local concurrence evolution patterns.
+## Identification of orbital angular momentum (OAM) states in vector beams
+- This work addresses the challenge of achieving comprehensive, fast, and convenient detection of OAM states in vector beams, which require simultaneous quantification of topological charge, sign, and polarization.
+- An eﬀicient method for simultaneous detection of OAM modes and polarization characteristics in vector beams is developed using vector mode decomposition, employing basic optical components for a single-shot measurement.
+## Spectral Polarimetric Imaging Technology
+- This work enables full polarization data acquisition in hyperspectral imaging by designing fringe channel modulation based on field-of-view segmentation.
+- A four-channel modulation component is designed, combining four birefringence spectrometers into one, enabling simultaneous polarization and spectral data acquisition while minimizing system size.
 
 # 📝 Publications 
 
@@ -59,7 +71,7 @@ Ren, Xi-Lin Wang, Jianping Ding*, and Hui-Tian Wang, **_Physical Review Applied_
 - *2023*, Outstanding Graduate Student, Nanjing University. 
 - *2019*, Third Prize of The 7th National College Student Optoelectronic Design Competition, China. 
 
-# 💻i Skills
+# 💻 Skills
 - **Experiment**: Basic Optical Experimental Techniques, Operation on the Spatial Light Modulator,
 Optical Tweezers Techniques
 - **Programming**: Matlab, Mathematica, Python, LATEX
