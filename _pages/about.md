@@ -48,18 +48,19 @@ Ren, Xi-Lin Wang, Jianping Ding*, and Hui-Tian Wang, **_Physical Review Applied_
 - Building on scalar mode decomposition, an innovative vector mode decomposition technique is introduced, utilizing polarization conversion and preservation to classify orbital angular momentum (OAM) states in vector beams. This method enables simultaneous detection of complex OAM modes and polarization information through single-shot measurements.
 
 # 💬 Presentation
-- *2024*, (Poster) Maniputation of longitudinal evolution of local nonseparability in vector beams, **Zhiming Qing**, Jianping Ding*, The 7th Jiangsu Physical Society Spring Meeting, China. **Awarded the Outstanding Report Prize.**
+- *2024*, (Poster) Maniputation of longitudinal evolution of local nonseparability in vector beams
+  **Zhiming Qing**, Jianping Ding*, The 7th Jiangsu Physical Society Spring Meeting, China. **Awarded the Outstanding Report Prize.**
 
 # 📖 Educations
-- *2021.06 - 2024.06*, **_M.Sc._** in Optics, Nanjing University, Nanjing, CHN.(GPA: 3.86/4)
-- *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, Nanjing University of Science and Technology, Nanjing, CHN.(GPA: 3.67/4, Rank: 6/91, Completed a four-year degree program in three years and graduated in advance.)
+- *2021.06 - 2024.06*, **_M.Sc._** in Optics, Nanjing University, Nanjing, CHN. (GPA: 3.86/4)
+- *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, Nanjing University of Science and Technology, Nanjing, CHN. (GPA: 3.67/4, Rank: 6/91, **Completed a four-year degree program in three years and graduated in advance.**)
 
 # 🎖 Honors and Awards
-- *2023* Outstanding Graduate Student, Nanjing University. 
-- *2019* Third Prize of The 7th National College Student Optoelectronic Design Competition, China. 
+- *2023*, Outstanding Graduate Student, Nanjing University. 
+- *2019*, Third Prize of The 7th National College Student Optoelectronic Design Competition, China. 
 
-# 💻 Skills
-- Experiment: Basic Optical Experimental Techniques, Operation on the Spatial Light Modulator,
+# 💻i Skills
+- **Experiment**: Basic Optical Experimental Techniques, Operation on the Spatial Light Modulator,
 Optical Tweezers Techniques
-- Programming: Matlab, Mathematica, Python, LATEX
-- Languages: Chinese, English, Japanese
+- **Programming**: Matlab, Mathematica, Python, LATEX
+- **Languages**: Chinese, English, Japanese
