@@ -57,6 +57,8 @@ potential for optical communication and quantum engineering applications.
 Hui-Tian Wang, **_Optics Letters_** 49, 2557–2560, (2024).
 
 - This paper introduces a novel method for tailoring the local nonseparability along the propagation axis of vector beams, achieved through amplitude modulation of orthogonal polarization components in higher-order Bessel vector beams. Utilizing an angular spectrum technique, we adeptly tailored the amplitude profiles of vector beam components along the propagation axis. This permits the customization of vector beams, enabling precise control of local nonseparability patterns longitudinally.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phys. Rev. Appl</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,6 +69,8 @@ Xian Long, Xinglin Wang, **Zhiming Qing**, Weiming Zhen, Zheng Yuan, Yuan Gao, W
 Ren, Xi-Lin Wang, Jianping Ding*, and Hui-Tian Wang, **_Physical Review Applied_** 22, 044019, (2024).
 
 - Building on scalar mode decomposition, an innovative vector mode decomposition technique is introduced, utilizing polarization conversion and preservation to classify orbital angular momentum (OAM) states in vector beams. This method enables simultaneous detection of complex OAM modes and polarization information through single-shot measurements.
+</div>
+</div>
 
 # 💬 Presentation
 - *2024*, (Poster) Maniputation of longitudinal evolution of local nonseparability in vector beams<br>
