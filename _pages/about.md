@@ -26,21 +26,21 @@ redirect_from:
 - *2024.05*: &nbsp;🎉🎉 Paper published by _Optics Letters_.
 # 🔎 Research experience
 ## Manipulating Optical Skyrmions During Propagation
-Nanjing University, 2024
+‘Nanjing University, 2024-2025’
 - Currently, I am working on this topic. Coming soon!
 ## Nonseparability in vectorial structured light fields
-Nanjing University, 2023
+‘Nanjing University, 2023-2024’
 - Study on the propagation evolution and control of nonseparability in vector light fields, comparing paraxial optical systems with quantum systems using quantum entanglement mathematical tools, and exploring methods to manipulate local nonseparability during propagation.
 - A theoretical scheme is proposed, and higher-order Bessel vectorial beams with adjustable local concurrence are designed, enabling the experimental generation of various longitudinal local concurrence evolution patterns.
 - This work offers a novel approach to optical information processing by leveraging local nonseparability as a new dimension for encoding information, with potential applications in information transmission, encryption, and quantum structured photons.
 ## Identification of orbital angular momentum (OAM) states in vector beams
-Nanjing University, 2023
+‘Nanjing University, 2023-2024’
 - This work addresses the challenge of achieving comprehensive, fast, and convenient detection of OAM states in vector beams, which require simultaneous quantification of topological charge, sign, and polarization.
 - An eﬀicient method for simultaneous detection of OAM modes and polarization characteristics in vector beams is developed using vector mode decomposition, employing basic optical components for a single-shot measurement.
 - This approach provides a practical and universally applicable solution for OAM state measurement, with significant
 potential for optical communication and quantum engineering applications.
-## Spectral Polarimetric Imaging Technology
-Nanjing University of Science and Technology, 2018
+## Spectral Polarimetric Imaging
+‘Nanjing University of Science and Technology, 2018-2019’
 - This work enables full polarization data acquisition in hyperspectral imaging by designing fringe channel modulation based on field-of-view segmentation.
 - A four-channel modulation component is designed, combining four birefringence spectrometers into one, enabling simultaneous polarization and spectral data acquisition while minimizing system size.
 
