@@ -60,7 +60,7 @@ potential for optical communication and quantum engineering applications.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Opt. Lett</div><img src='images/OL2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #C1A8F4;">Opt. Lett</div><img src='images/OL2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Longitudinal manipulation of local nonseparability in vector beams](https://doi.org/10.1364/OL.524647)
@@ -72,7 +72,7 @@ Hui-Tian Wang, **_Optics Letters_** 49, 2557–2560, (2024).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phys. Rev. Appl</div><img src='images/PRAP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #C1A8F4;">Phys. Rev. Appl</div><img src='images/PRAP2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast identification of orbital angular momentum states in vector beams](https://doi.org/10.1364/OL.524647)
