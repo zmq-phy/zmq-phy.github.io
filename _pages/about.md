@@ -29,28 +29,28 @@ My research interest includes Structured Light Field, Entanglement and its appli
 
 # 📖 Educations
 - *2021.06 - 2024.06*, **_M.Sc._** in Optics, Nanjing University, Nanjing, CHN. (GPA: 3.86/4)
-- *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, Nanjing University of Science and Technology, Nanjing, CHN. (GPA: 3.67/4, Rank: 6/91, **Completed a four-year degree program in three years and graduated in advance.**)
+- *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, Nanjing University of Science and Technology, Nanjing, CHN. (GPA: 3.67/4, Rank: 6/91, **Completed a four-year degree program in 3 years and graduated in advance.**)
 
 # 🔎 Research experience
-## Manipulating Optical Skyrmions During Propagation
-<span style="background-color: lightgray; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2024-2025</span>
+## Manipulating Optical Skyrmions
+<span style="background-color: #C1A8F4; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2024-2025</span>
 - Currently, I am working on this topic. Coming soon!
 
 ## Nonseparability in vectorial structured light fields
-<span style="background-color: lightgray; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2023-2024</span>
+<span style="background-color: #C1A8F4; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2023-2024</span>
 - Study on the propagation evolution and control of nonseparability in vector light fields, comparing paraxial optical systems with quantum systems using quantum entanglement mathematical tools, and exploring methods to manipulate local nonseparability during propagation.
 - A theoretical scheme is proposed, and higher-order Bessel vectorial beams with adjustable local concurrence are designed, enabling the experimental generation of various longitudinal local concurrence evolution patterns.
 - This work offers a novel approach to optical information processing by leveraging local nonseparability as a new dimension for encoding information, with potential applications in information transmission, encryption, and quantum structured photons.
 
 ## Identification of orbital angular momentum (OAM) states in vector beams
-<span style="background-color: lightgray; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2023-2024</span>
+<span style="background-color: #C1A8F4; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2023-2024</span>
 - This work addresses the challenge of achieving comprehensive, fast, and convenient detection of OAM states in vector beams, which require simultaneous quantification of topological charge, sign, and polarization.
 - An eﬀicient method for simultaneous detection of OAM modes and polarization characteristics in vector beams is developed using vector mode decomposition, employing basic optical components for a single-shot measurement.
 - This approach provides a practical and universally applicable solution for OAM state measurement, with significant
 potential for optical communication and quantum engineering applications.
 
 ## Spectral Polarimetric Imaging
-<span style="background-color: lightgray; border-radius: 8px; padding: 4px 8px;">Nanjing University of Science and Technology, 2018-2019</span>
+<span style="background-color: #C1A8F4; border-radius: 8px; padding: 4px 8px;">Nanjing University of Science and Technology, 2018-2019</span>
 - This work enables full polarization data acquisition in hyperspectral imaging by designing fringe channel modulation based on field-of-view segmentation.
 - A four-channel modulation component is designed, combining four birefringence spectrometers into one, enabling simultaneous polarization and spectral data acquisition while minimizing system size.
 
