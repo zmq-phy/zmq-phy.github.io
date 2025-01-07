@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! :wave: :smiley: I am Zhiming Qing, currently working as a research assistant in the Laboratory of Information Photonics at the School of Physics, Nanjing University.
+Hello! :wave: Welcome to my academic page.:smiley: I am Zhiming Qing, currently working as a research assistant in the Laboratory of Information Photonics at the School of Physics, Nanjing University.
 
 I graduated with a master's degree from the School of Physics at Nanjing University, advised by Prof. [Jianping Ding](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262056.html), and with a bachelor's degree from the School of Electronics and Optical Engineering at Nanjing University of Science and Technology.
 
