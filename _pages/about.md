@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! :wave: Welcome to my academic website. :smiley: 
+Hello! 👋 Welcome to my academic website. 😃 
 
 I am Zhiming Qing, currently working as a research assistant in the Laboratory of Information Photonics at the School of Physics, Nanjing University.
 
