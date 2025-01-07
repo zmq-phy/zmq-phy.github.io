@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Physics, Nanjing University with a master's degree, advised by Prof. Jianping Ding and from School of Electronics and Optical Engineering, Nanjing University of Science and Technology with a bachelor's degree.
+Hello!I am Zhiming Qing, currently working as a research assistant in the Laboratory of Information Photonics at the School of Physics, Nanjing University.
+
+I graduated from School of Physics, Nanjing University with a master's degree, advised by Prof. [Jianping Ding](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262056.html) and from School of Electronics and Optical Engineering, Nanjing University of Science and Technology with a bachelor's degree.
 
 My research interest includes Structured Light Field, Entanglement and its application, Light-Matter Interaction, Information Photonics and Quantum Computation.
 
