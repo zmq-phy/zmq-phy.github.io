@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Zhiming Qing, currently working as a research assistant in the Laboratory of Information Photonics at the School of Physics, Nanjing University.
+Hello! :wave: :smiley: I am Zhiming Qing, currently working as a research assistant in the Laboratory of Information Photonics at the School of Physics, Nanjing University.
 
 I graduated with a master's degree from the School of Physics at Nanjing University, advised by Prof. [Jianping Ding](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262056.html), and with a bachelor's degree from the School of Electronics and Optical Engineering at Nanjing University of Science and Technology.
 
@@ -29,7 +29,7 @@ My research interest includes Structured Light Field, Entanglement and its appli
 - *2024.06*: &nbsp;🎉🎉 I have passed my thesis defense and graduated from Nanjing University.
 - *2024.05*: &nbsp;🎉🎉 Paper published by _Optics Letters_.
 
-# 📖 Educations
+# 🎓 Educations
 - *2021.06 - 2024.06*, **_M.Sc._** in Optics, Nanjing University, Nanjing, CHN. (GPA: 3.86/4)
 - *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, Nanjing University of Science and Technology, Nanjing, CHN. (GPA: 3.67/4, Rank: 6/91, **Completed a four-year degree program in 3 years and graduated in advance.**)
 
@@ -86,7 +86,7 @@ Ren, Xi-Lin Wang, Jianping Ding*, and Hui-Tian Wang, **_Physical Review Applied_
 - *2024*, (Poster) Maniputation of longitudinal evolution of local nonseparability in vector beams<br>
   **Zhiming Qing**, Jianping Ding*, The 7th Jiangsu Physical Society Spring Meeting, China. **Awarded the Outstanding Report Prize.**
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2023*, Outstanding Graduate Student, Nanjing University. 
 - *2019*, Third Prize of The 7th National College Student Optoelectronic Design Competition, China. 
 
