@@ -37,30 +37,30 @@ My research interest includes Structured Light Field, Entanglement and its appli
 
 # 🔎 Research experience
 ## Manipulating Optical Skyrmions
-<span style="background-color: #C1A8F4; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2024-2025</span>
+<span style="background-color: #7B68EE; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2024-2025</span>
 - Currently, I am working on this topic. Coming soon!
 
 ## Nonseparability in vectorial structured light fields
-<span style="background-color: #C1A8F4; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2023-2024</span>
+<span style="background-color: #7B68EE; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2023-2024</span>
 - Study on the propagation evolution and control of nonseparability in vector light fields, comparing paraxial optical systems with quantum systems using quantum entanglement mathematical tools, and exploring methods to manipulate local nonseparability during propagation.
 - A theoretical scheme is proposed, and higher-order Bessel vectorial beams with adjustable local concurrence are designed, enabling the experimental generation of various longitudinal local concurrence evolution patterns.
 - This work offers a novel approach to optical information processing by leveraging local nonseparability as a new dimension for encoding information, with potential applications in information transmission, encryption, and quantum structured photons.
 
 ## Identification of orbital angular momentum (OAM) states in vector beams
-<span style="background-color: #C1A8F4; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2023-2024</span>
+<span style="background-color: #7B68EE; border-radius: 8px; padding: 4px 8px;">Nanjing University, 2023-2024</span>
 - This work addresses the challenge of achieving comprehensive, fast, and convenient detection of OAM states in vector beams, which require simultaneous quantification of topological charge, sign, and polarization.
 - An eﬀicient method for simultaneous detection of OAM modes and polarization characteristics in vector beams is developed using vector mode decomposition, employing basic optical components for a single-shot measurement.
 - This approach provides a practical and universally applicable solution for OAM state measurement, with significant
 potential for optical communication and quantum engineering applications.
 
 ## Spectral Polarimetric Imaging
-<span style="background-color: #C1A8F4; border-radius: 8px; padding: 4px 8px;">Nanjing University of Science and Technology, 2018-2019</span>
+<span style="background-color: #7B68EE; border-radius: 8px; padding: 4px 8px;">Nanjing University of Science and Technology, 2018-2019</span>
 - This work enables full polarization data acquisition in hyperspectral imaging by designing fringe channel modulation based on field-of-view segmentation.
 - A four-channel modulation component is designed, combining four birefringence spectrometers into one, enabling simultaneous polarization and spectral data acquisition while minimizing system size.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #C1A8F4;">Opt. Lett</div><img src='images/OL2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #7B68EE;">Opt. Lett</div><img src='images/OL2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Longitudinal manipulation of local nonseparability in vector beams](https://doi.org/10.1364/OL.524647)
@@ -72,7 +72,7 @@ Hui-Tian Wang, **_Optics Letters_** 49, 2557–2560, (2024).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #C1A8F4;">Phys. Rev. Appl</div><img src='images/PRAP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #7B68EE;">Phys. Rev. Appl</div><img src='images/PRAP2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast identification of orbital angular momentum states in vector beams](https://doi.org/10.1364/OL.524647)
