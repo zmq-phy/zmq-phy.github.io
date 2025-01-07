@@ -4,13 +4,16 @@
 
 .page__footer {
   @include clearfix;
-  position: fixed; /* 固定在页面底部 */
-  bottom: 0; /* 距离页面底部 0 */
-  left: 0; /* 从左侧开始 */
-  width: 100%; /* 宽度占满整个页面 */
-  display: flex; /* 使用 Flexbox 布局 */
-  justify-content: center; /* 内容水平居中 */
-  align-items: center; /* 内容垂直居中 */
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
+  /* sticky footer fix start */
+  position: absolute;
+  bottom: 0em;
+  height: auto;
+  /* sticky footer fix end */
   margin-top: 3em;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
