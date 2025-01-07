@@ -96,4 +96,4 @@ Ren, Xi-Lin Wang, Jianping Ding*, and Hui-Tian Wang, **_Physical Review Applied_
 - **Experiment**: Basic Optical Experimental Techniques, Operation on the Spatial Light Modulator,
 Optical Tweezers Techniques
 - **Programming**: Matlab, Mathematica, Python, LaTeX
-- **Languages**: Chinese, English, Japanese
+- **Languages**: Chinese (Native), English (TOFEL 101), Japanese (JLPT N2)
