@@ -32,8 +32,8 @@ My research interest includes Structured Light Field, Entanglement and its appli
 - *2024.05*: &nbsp;🎉🎉 Paper published by _Optics Letters_.
 
 # 🎓 Educations
-- *2021.06 - 2024.06*, **_M.Sc._** in Optics, Nanjing University <img src='./images/nju.svg' style='hight: 2em;'>, Nanjing, CHN. (GPA: 3.86/4)
-- *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, Nanjing University of Science and Technology <img src='./images/njust.svg' style='hight: 2em;'>, Nanjing, CHN. (GPA: 3.67/4, Rank: 6/91, **Completed a four-year degree program in 3 years and graduated in advance.**)
+- *2021.06 - 2024.06*, **_M.Sc._** in Optics, Nanjing University <img src='./images/nju.svg' style='height: 0.5mm;'>, Nanjing, CHN. (GPA: 3.86/4)
+- *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, Nanjing University of Science and Technology <img src='./images/njust.svg' style='height: 0.5mm;'>, Nanjing, CHN. (GPA: 3.67/4, Rank: 6/91, **Completed a four-year degree program in 3 years and graduated in advance.**)
 
 # 🔎 Research experience
 ## Manipulating Optical Skyrmions
