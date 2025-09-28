@@ -32,7 +32,7 @@ My research interest includes Structured Light Field, Entanglement and its appli
 - *2024.05*: &nbsp;🎉🎉 Paper published by _Optics Letters_.
 
 # 🎓 Educations
-- *2025.09 - Now*, **_P.hD._** in Physics, <img src='./images/nju.svg' style='height: 1.618em;'> Nanjing University, Nanjing, China.
+- *2025.09 - Now*, **_Ph.D._** in Physics, <img src='./images/nju.svg' style='height: 1.618em;'> Nanjing University, Nanjing, China.
 - *2021.09 - 2024.06*, **_M.Sc._** in Optics, <img src='./images/nju.svg' style='height: 1.618em;'> Nanjing University, Nanjing, China. (GPA: 3.86/4)
 - *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, <img src='./images/njust.svg' style='height: 1.618em;'> Nanjing University of Science and Technology, Nanjing, China. (GPA: 3.67/4, Rank: 6/91, **Completed a 4-year degree program in 3 years and graduated in advance.**)
 
