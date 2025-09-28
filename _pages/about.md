@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! 👋 Welcome to my academic website. 😃 
 
-I am Zhiming Qing, a PhD candidate in the School of Physics, Nanjing University, supervised by Prof. [Jianping Ding](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262056.html) and Prof. [Xi-Lin Wang](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262081.html).
+I am Zhiming Qing, a Ph.D. candidate in the School of Physics, Nanjing University, supervised by Prof. [Jianping Ding](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262056.html) and Prof. [Xi-Lin Wang](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262081.html).
 
 I graduated with a master's degree from the School of Physics at Nanjing University, advised by Prof. [Jianping Ding](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262056.html), and with a bachelor's degree from the School of Electronics and Optical Engineering at Nanjing University of Science and Technology.
 
