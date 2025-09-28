@@ -19,11 +19,11 @@ redirect_from:
 
 Hello! 👋 Welcome to my academic website. 😃 
 
-I am Zhiming Qing, currently working as a research assistant in the Laboratory of Information Photonics at the School of Physics, Nanjing University.
+I am Zhiming Qing, a PhD candidate in the School of Physics, Nanjing University, supervised by Prof. [Jianping Ding](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262056.html) and Prof. [Xi-Lin Wang](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262081.html).
 
 I graduated with a master's degree from the School of Physics at Nanjing University, advised by Prof. [Jianping Ding](https://physics.nju.edu.cn/szdw/qbmd/20240321/i262056.html), and with a bachelor's degree from the School of Electronics and Optical Engineering at Nanjing University of Science and Technology.
 
-My research interest includes Structured Light Field, Entanglement and its application, Light-Matter Interaction, Information Photonics and Quantum Computation.
+My research interest includes Structured Light Field, Entanglement and its application, Light-Matter Interaction, Information Photonics, and Quantum Computation.
 
 
 # 🔥 News
@@ -32,6 +32,7 @@ My research interest includes Structured Light Field, Entanglement and its appli
 - *2024.05*: &nbsp;🎉🎉 Paper published by _Optics Letters_.
 
 # 🎓 Educations
+- *2025.09 - Now*, **_P.hD._** in Physics, <img src='./images/nju.svg' style='height: 1.618em;'> Nanjing University, Nanjing, China.
 - *2021.09 - 2024.06*, **_M.Sc._** in Optics, <img src='./images/nju.svg' style='height: 1.618em;'> Nanjing University, Nanjing, China. (GPA: 3.86/4)
 - *2016.09 - 2019.06*, **_B.E._** in Optoelectronic Information Science and Engineering, <img src='./images/njust.svg' style='height: 1.618em;'> Nanjing University of Science and Technology, Nanjing, China. (GPA: 3.67/4, Rank: 6/91, **Completed a 4-year degree program in 3 years and graduated in advance.**)
 
